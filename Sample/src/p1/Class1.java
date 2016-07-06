@@ -16,6 +16,7 @@ public class Class1 {
 
 		System.out.println("changes by rakesh");
 		System.out.println("doing things after creating a stash");
+		System.out.println("checking stash");
 
 	}
 }
