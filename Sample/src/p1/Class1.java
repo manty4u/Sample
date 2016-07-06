@@ -7,6 +7,6 @@ public class Class1 {
 		c1.m1();
 	}
 	public void m1(){
-		System.out.println("Hi-updated");
+		System.out.println("Hi-updated-branch1");
 	}
 }
