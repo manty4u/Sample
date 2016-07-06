@@ -8,5 +8,6 @@ public class Class1 {
 	}
 	public void m1(){
 		System.out.println("Hi-updated");
+		System.out.println("updating in branch 2");
 	}
 }
