@@ -15,6 +15,7 @@ public class Class1 {
 		System.out.println("changes by saurav- before pull");
 
 		System.out.println("changes by rakesh");
+		System.out.println("doing things after creating a stash");
 
 	}
 }
